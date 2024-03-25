@@ -163,7 +163,7 @@ main{
 }
 
 .resultados div > strong{
-    color: light var(--light-green);
+    color: var(--light-green);
     font-size: 2rem;
 }
 
